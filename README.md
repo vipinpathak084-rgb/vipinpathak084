@@ -8,46 +8,44 @@ Senior Software Engineer | Full-Stack | Microservices | Cloud | AI Chatbots
 
 ### 🧑‍💻 About Me
 
-- 🚀 Full-Stack Engineer with deep experience in **Node.js, Python, React & AWS**
+- 🚀 Full-Stack Engineer with strong experience in **Node.js, Python, React & AWS**
 - 🧠 Building scalable **microservices & SaaS platforms**
-- 🎙 Currently working on **AI Voicebot + Multi-Tenant SaaS platform**
-- ☁️ Cloud & DevOps enthusiast — **Docker, CI/CD, AWS, Kafka**
-- 📍 Based in **Chandigarh, India**
+- 🎙 Currently working on **AI Voicebot + Multi-Tenant AI Platform**
+- ☁️ Cloud & DevOps: **Docker, CI/CD, AWS, Kafka**
 - 💡 Passionate about **System Design, Cloud Architecture & AI integrations**
+
+---
+
+### 🧠 Professional Experience Highlights
+
+- Architected and developed an **AI-powered conversational automation system** used across major digital/social channels, enabling multi-tenant chatbot experiences using **FastAPI, AWS Bedrock, DynamoDB, Keycloak, React & Docker**.
+
+- Engineered a **modern POS ecosystem** with scalable architecture using **Laravel, MySQL, Redis, Microservices, Docker & Vue.js**, including inventory, billing, tax & multi-branch management.
+
+- Modernized an **enterprise business management system for aviation workflows**, improving automation, reporting and operational productivity using **Laravel, PostgreSQL, REST APIs, jQuery/React hybrid**.
+
+- Built a **multi-vendor commerce platform** using **Node.js, Express, React, MongoDB, Redis, AWS, NGINX**, supporting vendor dashboards, product catalog, orders, payments & media system.
+
+- Developed an **on-demand hyperlocal delivery platform** (Blink-style) using **Flutter, Node.js, PostgreSQL, Redis, Firebase & WebSockets** with real-time rider tracking, order routing, push notifications & inventory system.
+
+> *Enterprise code private — Sanitized demo repositories & architecture diagrams coming soon.*
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
-- Node.js | Python (FastAPI) | Laravel | React | TypeScript  
-- Express.js | Redis | Kafka | REST APIs | MySQL | DynamoDB | MongoDB
+**Backend / Microservices**
+Node.js | Python (FastAPI) | Laravel | MySQL | PostgreSQL | MongoDB | Redis | Kafka | REST APIs | Agile | Lumen | Codeigniter | PHP | DynamoDB | Nest.js
+
+**Frontend**
+React | Vue.js | JavaScript | Angular | Next.js
 
 **Cloud & DevOps**
-- AWS (Lambda, EC2, S3, Bedrock, API Gateway, DynamoDB)
-- Docker | GitHub Actions | NGINX
+AWS (Lambda, DynamoDB, S3, Bedrock, API Gateway) | Docker | GitHub Actions | NGINX | GCP
 
 ---
 
-### 🚀 Featured Work
-| Project | Description |
-|--------|-------------|
-| **AI Voicebot** | Telephony + LLM voice assistant using Twilio/Azure/AWS |
-| **SaaS Chatbot Platform** | Multi-tenant AI Chatbot builder using FastAPI & Keycloak |
-| **Microservices LMS** | Kafka based LMS with live sessions & video streaming |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vipinpathak084-rgb&show_icons=true&theme=default" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vipinpathak084-rgb" height="165" />
-</p>
-
----
-
-### 🔗 Connect with Me
+### 🔗 Connect With Me
 
 - 🌐 Website: https://vipinpathak.com  
 - 💼 LinkedIn: https://linkedin.com/in/vipinnpathak  
@@ -55,6 +53,7 @@ Senior Software Engineer | Full-Stack | Microservices | Cloud | AI Chatbots
 
 ---
 
-### 🤝 Let's Build Something Cool
-Always open to collaborations on **AI, SaaS, DevOps & Full-Stack projects**.
+### 🤝 Let's Build Something Amazing
+
+Open to collaborations in **AI, Cloud, SaaS, Voice Solutions & Full-Stack Engineering** 🚀
 
